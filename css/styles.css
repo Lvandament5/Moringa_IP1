@@ -74,7 +74,9 @@ h6 {
 	color: #06a77d;
 	font: 900 1rem/1.5rem "Montserrat", serif;
 }
-
+Ddiv.mountain {
+    vertical-align: top 
+}
 .p-large {
 	font-size: 1.125rem;
 	line-height: 1.75rem;
